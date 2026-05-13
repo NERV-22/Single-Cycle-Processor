@@ -14,7 +14,7 @@ Lab5.sv — all modules + testbench
 Lab5.csv — instruction memory contents
 
 ## How to simulate
-Open in ModelSim/Questa, compile Lab5.sv, then run Lab5_TB. Testbench loads instructions from Lab5.csv and prints PC, OPCODE, ALU output, and the working register each cycle to the waveform shown below.
+Open in ModelSim, compile Lab5.sv, then run Lab5_TB. Testbench loads instructions from Lab5.csv and prints PC, OPCODE, ALU output, and the working register each cycle to the waveform shown below. Do not change and leave Lab5.csv as is.
 
 ## Waveform
 <img width="935" height="561" alt="image" src="https://github.com/user-attachments/assets/4d4e9e07-8541-4796-8fd9-af488c60eed9" />
